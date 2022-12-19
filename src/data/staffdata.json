@@ -1,0 +1,85 @@
+{
+    "staffData" : [
+        {
+            "id": 1,
+            "username" :"William",
+            "PhoneNumber": 8574254875,
+            "address" : "indore",
+            "parmanentAddress" : "dewas",
+            "accessType": "RW",
+            "role" :"BranchAdmin"
+        },
+       
+        {
+            "id": 1,
+            "username" :"William",
+            "PhoneNumber": 8574254875,
+            "address" : "indore",
+            "parmanentAddress" : "dewas",
+            "accessType": "RW",
+            "role" :"BranchAdmin"
+        },
+       
+        {
+            "id": 1,
+            "username" :"William",
+            "PhoneNumber": 8574254875,
+            "address" : "indore",
+            "parmanentAddress" : "dewas",
+            "accessType": "RW",
+            "role" :"BranchAdmin"
+        },
+       
+        {
+            "id": 1,
+            "username" :"William",
+            "PhoneNumber": 8574254875,
+            "address" : "indore",
+            "parmanentAddress" : "dewas",
+            "accessType": "RW",
+            "role" :"BranchAdmin"
+        },
+       
+        {
+            "id": 1,
+            "username" :"William",
+            "PhoneNumber": 8574254875,
+            "address" : "indore",
+            "parmanentAddress" : "dewas",
+            "accessType": "RW",
+            "role" :"BranchAdmin"
+        },
+       
+        {
+            "id": 1,
+            "username" :"William",
+            "PhoneNumber": 8574254875,
+            "address" : "indore",
+            "parmanentAddress" : "dewas",
+            "accessType": "RW",
+            "role" :"BranchAdmin"
+        },
+       
+        {
+            "id": 1,
+            "username" :"William",
+            "PhoneNumber": 8574254875,
+            "address" : "indore",
+            "parmanentAddress" : "dewas",
+            "accessType": "RW",
+            "role" :"BranchAdmin"
+        },
+       
+        {
+            "id": 1,
+            "username" :"William",
+            "PhoneNumber": 8574254875,
+            "address" : "indore",
+            "parmanentAddress" : "dewas",
+            "accessType": "RW",
+            "role" :"BranchAdmin"
+        }
+       
+       
+    ]
+}

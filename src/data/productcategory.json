@@ -1,0 +1,85 @@
+{
+    "categoryData" : [
+        {
+            "id": 1,
+            "productName" :"Fan",
+            "contactnumber": 8574254875,
+            "category" : 1,
+            "subcategory" : 3,
+            "systemrating": 67.9,
+            "massage" :"Wedding cake with flowers Macarons and blueberries"
+        },
+        {
+            "id": 1,
+            "productName" :"SOP",
+            "contactnumber": 9974254875,
+            "category" : 2,
+            "subcategory" : 3,
+            "systemrating": 16.9,
+            "massage" :"Wedding cake with flowers Macarons and blueberries"
+        },
+        {
+            "id": 1,
+            "productName" :"Mobile",
+            "contactnumber": 8234254875,
+            "category" : 4,
+            "subcategory" : 2,
+            "systemrating": 37.9,
+            "massage" :"Wedding cake with flowers Macarons and blueberries"
+        },
+        {
+            "id": 1,
+            "productName" :"TV",
+            "contactnumber": 7724254895,
+            "category" : 2,
+            "subcategory" : 4,
+            "systemrating": 30.9,
+            "massage" :"Wedding cake with flowers Macarons and blueberries"
+        },
+        {
+            "id": 1,
+            "productName" :"Cake",
+            "contactnumber": 8174254899,
+            "category" : 7,
+            "subcategory" : 2,
+            "systemrating": 45.9,
+            "massage" :"Wedding cake with flowers Macarons and blueberries"
+        },
+        {
+            "id": 1,
+            "productName" :"LEPTOP",
+            "contactnumber": 9994254875,
+            "category" : 1,
+            "subcategory" : 1,
+            "systemrating": 20.9,
+            "massage" :"Wedding cake with flowers Macarons and blueberries"
+        },
+        {
+            "id": 1,
+            "productName" :"TABLET",
+            "contactnumber": 7774254875,
+            "category" : 3,
+            "subcategory" : 11.0,
+            "systemrating": 47.9,
+            "massage" :"Wedding cake with flowers Macarons and blueberries"
+        },
+        {
+            "id": 1,
+            "productName" :"FOOD",
+            "contactnumber": 8594254875,
+            "category" : 5,
+            "subcategory" : 2,
+            "systemrating": 6.9,
+            "massage" :"Wedding cake with flowers Macarons and blueberries"
+        },
+        {
+            "id": 1,
+            "productName" :"Marble Cake",
+            "contactnumber": 8574254875,
+            "category" : 2,
+            "subcategory" : 1,
+            "systemrating": 87.9,
+            "massage" :"Wedding cake with flowers Macarons and blueberries"
+        }
+    ]
+}
